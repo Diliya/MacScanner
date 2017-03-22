@@ -8,3 +8,5 @@ C:\Users\Administrator\Desktop\ConsoleMacSanner\ConsoleMacSanner\obj\x86\Debug\C
 C:\Users\Administrator\Desktop\ConsoleMacSanner\ConsoleMacSanner\bin\Debug\ConsoleMacSanner.exe
 C:\Users\Administrator\Desktop\ConsoleMacSanner\ConsoleMacSanner\bin\Debug\ConsoleMacSanner.pdb
 C:\Users\Administrator\Desktop\ConsoleMacSanner\ConsoleMacSanner\obj\x86\Debug\ConsoleMacSanner.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\github\MacScanner\控制台版本\ConsoleMacSanner\obj\x86\Debug\ConsoleMacSanner.exe
+C:\Users\Administrator\Desktop\github\MacScanner\控制台版本\ConsoleMacSanner\obj\x86\Debug\ConsoleMacSanner.pdb
