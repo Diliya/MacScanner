@@ -11,39 +11,15 @@ namespace ConsoleMacSanner
         static void Main(string[] args)
         {
             StartScan();
-            //ReadRecord();
-            //System.Console.ReadKey();
+            
         }
         private static bool isScan = false;//加个标志判断是否需要开始扫描
         static string strText;//存储从本地记录读取的数据
         private static void StartScan()
         {
             while (isScan == false)
-            {
-                //存在本地记录文件则读取，无本地记录文件则开始扫描本地网段，将扫描结果写入新文件作为本地记录
-                //try
-                //{
-                    getLocalRec();
-                    
-                //}
-                //catch
-                //{
-                //    try
-                //    {
-                //        System.Console.WriteLine("未读取到本地记录，开始扫描获取......");
-                //        //File.Create(@"IPInfo.txt");
-                //        List<string[]> NetInf = getLocalInf.GetIPInfo();
-                //        WriteRecord(NetInf);
-                //        isScan = true;
-                //    }
-                //    catch
-                //    {
-                //        System.Console.WriteLine("创建本地记录文件失败");
-                //    }
-                //    System.Console.WriteLine("成功写入本地记录");
-                //    //System.Console.ReadKey();
-                //    //ReadRecord();
-                //}
+            {               
+                getLocalRec();      
                 isScan = true;
             }
             //throw new NotImplementedException();
