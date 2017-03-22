@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MacScanner">
+</Property><Property Name="Solution File" Value="C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\MacScanner.sln">
+</Property><Property Name="Date" Value="2017年3月20日">
+</Property><Property Name="Time" Value="8:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MacScanner.sln" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner.sln">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\MacScanner.csproj" Description="Project file successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\MacScanner.csproj">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\DBhelper.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\DBhelper.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\ScanWindow.xaml.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\ScanWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\App.xaml.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\getLocalInfo.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\getLocalInfo.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\MainWindow.xaml.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\MainWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\Properties\Settings.settings" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\App.config" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\App.config">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\Properties\Resources.resx" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\App.xaml" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\App.xaml">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\MainWindow.xaml" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\MainWindow.xaml">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\ScanWindow.xaml" Description="File successfully backed up as C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\Backup\MacScanner\ScanWindow.xaml">
+</Event><Event ErrorLevel="0" Project="MacScanner" Source="MacScanner\MacScanner.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MacScanner" Source="MacScanner\MacScanner.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="MacScanner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MacScanner.sln" Description="Converted">
+</Event></UpgradeLog>

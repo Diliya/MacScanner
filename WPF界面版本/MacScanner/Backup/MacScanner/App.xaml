@@ -1,0 +1,9 @@
+﻿<Application x:Class="MacScanner.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MacScanner"
+             StartupUri="ScanWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
