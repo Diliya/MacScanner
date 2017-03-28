@@ -34,3 +34,6 @@ C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\MacScanner\obj\
 C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\MacScanner\obj\Debug\MacScanner.Properties.Resources.resources
 C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\MacScanner\obj\Debug\GenerateResource.read.1.tlog
 C:\Users\lijing\Documents\Visual Studio 2010\Projects\MacScanner\MacScanner\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\github\MacScanner\WPF界面版本\MacScanner\bin\Debug\MacScanner.exe.config
+C:\Users\Administrator\Desktop\github\MacScanner\WPF界面版本\MacScanner\obj\Debug\MacScanner.exe
+C:\Users\Administrator\Desktop\github\MacScanner\WPF界面版本\MacScanner\obj\Debug\MacScanner.pdb
