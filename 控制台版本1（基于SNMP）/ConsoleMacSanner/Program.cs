@@ -70,30 +70,7 @@ namespace ConsoleMacSanner
             List<string[]> LocalRecInf = getLocalInf.GetIPInfo(strText);
             List<string[]> NetInfo = getLocalInf.GetIPInfo();
             List<string[]> NewList = new List<string[]>();
-            //LocalRecInf.Sort();
-            //NetInfo.Sort();
-            //IEnumerable<string[]> q1 =null;
-            //q1 = from items in LocalRecInf orderby items[1] select items;
-            //IEnumerable<string[]> q2 = null;
-            //q2 = from items in NetInfo orderby items[1] select items;
-            //比较检测到的arp列表是否和本地记录一致
-            //while (true)
-            //{
-                //bool j = false;
-                //foreach (string[] i in LocalRecInf)
-                //    foreach (string[] t in NetInfo)
-                //    {
-                //        if (i[1].ToString() == t[1].ToString() && i[0].ToString() == t[0].ToString())
-                //        {
-                //            j = false;
-                //            NewList.Remove(t);
-                //        }
-                //        else
-                //        {
-                //            j = true;
-                //            break;
-                //        }
-                //    }
+            
                 NewList = Comp(LocalRecInf, NetInfo);
                 if (NewList.Count() > 0)
                 {
@@ -132,20 +109,13 @@ namespace ConsoleMacSanner
                 {
                     if (i[1].ToString() == t[1].ToString() && i[0].ToString() == t[0].ToString())
                     {
-                        //j = false;
                         NetInfo.Remove(t);
                         break;
                     }
-                    //else
-                    //{
-                    //    j = true;
-                    //    //NewList.Add(i);
-                    //    //break;
-                    //}
+                    
                 }
             }
             return NetInfo;
-            //return j;
         }
 
         private static void WriteRecord(List<string[]> NetInf)

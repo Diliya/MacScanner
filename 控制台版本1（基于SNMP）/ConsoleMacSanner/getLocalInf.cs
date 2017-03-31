@@ -37,6 +37,7 @@ namespace ConsoleMacSanner
             }
             return output;
         }
+        //获取本地网卡网段信息，同时过滤到不必要的网卡网段信息
         public static List<string[]> GetIPInfo()
         {
             var list = new List<string[]>();
