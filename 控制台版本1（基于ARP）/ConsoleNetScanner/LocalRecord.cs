@@ -43,7 +43,7 @@ namespace ConsoleNetScanner
                 file.Close();
                 
                 List<NetCollection> listNet = Common.StrToList(strText);
-                System.Console.WriteLine("成功读取到本地记录");
+                //System.Console.WriteLine("成功读取到本地记录");
                 return listNet;
             
         }

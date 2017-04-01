@@ -20,15 +20,17 @@ namespace ConsoleNetScanner
                 LocalRecord.ListExport(listLocal);
                 Console.WriteLine("导入成功，将自动重启程序");
                 Application.Restart();//自动重启程序
+                Application.Exit();
                 
             }
-            listLocal = LocalRecord.ImportFromRecord();//导入记录
+            
             Console.WriteLine("开始扫描...");
             
            
             bool p = true;
             while(p)
-            { 
+            {
+                listLocal = LocalRecord.ImportFromRecord();//导入记录
                 listScan = NetScan.GetARPList();
                 List<NetCollection> listDiff = NetScan.Cmp(listLocal,listScan);
                 if (listDiff.Count > 0)
